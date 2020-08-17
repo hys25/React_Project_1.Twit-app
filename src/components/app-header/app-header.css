@@ -13,3 +13,9 @@
   font-size: 1.2rem;
   color: grey;
 }
+@media(max-width: 767px) {
+	.app-header {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+}

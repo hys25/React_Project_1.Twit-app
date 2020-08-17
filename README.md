@@ -14,3 +14,5 @@ The application has such interactive features:
 - sort post all / liked 
 - there is a post search by typed characters
 - all the posts are counted, and the posts you like are also counted.
+
+The site is adaptive for mobile phone, tablet and desktop.

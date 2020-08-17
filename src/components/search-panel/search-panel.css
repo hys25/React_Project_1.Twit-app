@@ -7,3 +7,11 @@
   flex-grow: 1;
   margin-right: 3px;
 }
+
+@media(max-width: 767px) {
+  .search-panel .btn-group {
+    padding-right: 2px;
+    padding-top: 10px;
+  }
+}
+
