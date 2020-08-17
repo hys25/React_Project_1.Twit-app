@@ -22,7 +22,6 @@ code {
 	.search-panel {
 		display: flex;
 		flex-direction: column;
-		
 	}
 	.btn-group {
 		justify-content: center;
